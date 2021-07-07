@@ -19,4 +19,4 @@
 - The counter of the tasks is given at beginning.
 
 ## Live link
--https://github.com/Anum23432/To-do-app.github.io
+-https://anum23432.github.io/To-do-app.github.io/
