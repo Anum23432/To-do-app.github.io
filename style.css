@@ -1,0 +1,86 @@
+ /* body tag and background */
+ body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    background-image: url("22.jpg");
+    
+}
+/* for container div  */
+.container{
+    width:355px;
+    height:auto;
+    border:1px solid grey;
+    box-shadow: 0 0 10px 0 grey;
+    margin-left:35%;
+    margin-top: 14%;
+    background-color: white;
+
+
+}
+/* the heading */
+h2{
+     margin-left: 25%; 
+}
+/* for the div styling */
+#h2{
+    
+    width:355px;
+    border:1px solid grey;
+    box-shadow: 0 0 7px 0 grey;
+
+}
+/* ul tag styling */
+ul{
+    list-style-type:none;
+    padding:0;
+    max-height:300px;
+    overflow:auto;
+  }
+/* input styling */
+input{
+    margin-top: 10%;
+    margin-left: 2.5px;
+    padding:10px 31px;
+    box-shadow: 0 0 7px 0 grey;
+
+}
+.list{
+    padding:0px;
+}
+/* list items which are created in javascript */
+li{
+
+    border-bottom:1px solid grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0%;
+    list-style: none;
+    margin-top: 0%;
+    padding-left: 20px;
+    
+}
+/* closing button of list items */
+a{
+    border:1px solid grey;
+    padding:2px 8px;
+    border-radius: 50%;
+    text-decoration: none;
+    background-color: rgb(160, 160, 160);
+    color: white;
+    float:right ;
+    margin-right: 8px;
+
+}
+a:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 15px 0 grey;
+
+}
+/* submit button styling of html */
+#btnClick:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 15px 0 grey;
+    cursor:pointer;
+}
